@@ -1,0 +1,39 @@
+
+
+ **A/B Testing Results**
+
+1. **Impression:**
+
+   * Normality: p > 0.05 (Normal distribution confirmed)
+   * Variance Homogeneity: p > 0.05 (Variances equal)
+   * Independent t-test: p = 0.000 (Significant difference)
+   * Mean of GroupB > GroupA
+
+2. **Click:**
+
+   * Normality: p > 0.05 (Normal distribution confirmed)
+   * Variance Homogeneity: p = 0.014 (Variances not equal)
+   * Independent t-test: p = 0.000 (Significant difference)
+   * Mean of GroupA > GroupB
+
+3. **Purchase:**
+
+   * Normality: p > 0.05 (Normal distribution confirmed)
+   * Variance Homogeneity: p > 0.05 (Variances equal)
+   * Independent t-test: p = 0.349 (No significant difference)
+
+4. **Earning:**
+
+   * Normality: p > 0.05 (Normal distribution confirmed)
+   * Variance Homogeneity: p > 0.05 (Variances equal)
+   * Independent t-test: p = 0.000 (Significant difference)
+   * Mean of GroupB > GroupA
+
+5. **Conversion Rate:**
+
+   * Normality: p < 0.05 (Normal distribution not confirmed)
+   * Mann-Whitney U test: p = 0.000 (Significant difference)
+   * Median of GroupB > GroupA
+
+---
+
