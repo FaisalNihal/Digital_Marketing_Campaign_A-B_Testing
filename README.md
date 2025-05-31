@@ -67,9 +67,7 @@ Two additional features were created to enrich the analysis:
 ## 📊 Results & Findings
 
 ### 🔎 Key Insights:
-Absolutely! Here’s a **clear final result summary** for your README:
 
----
 
 ### **Final Results of A/B Testing:**
 
@@ -96,9 +94,6 @@ Absolutely! Here’s a **clear final result summary** for your README:
 * **Group A** is better if the focus is on **clicks**.
 * **Purchases** are similar in both groups.
 
----
-
-Let me know if you’d like a Markdown version of this too! 🚀
 
 
 
